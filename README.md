@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sectester4444
 - 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Git and Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
